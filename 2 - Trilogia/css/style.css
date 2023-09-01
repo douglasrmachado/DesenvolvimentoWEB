@@ -31,7 +31,7 @@ body {
 header {
     background-color: #111111;
     height: 150px;
-    justify-content: space-between;
+    justify-content: space-around;
     display: flex;
     align-items: center;
     background-position: center;
@@ -54,7 +54,6 @@ h1 {
     border: 1px solid #268188;
     border-radius: 20px;
     margin-left: 780px;
-    
 }
 
 
